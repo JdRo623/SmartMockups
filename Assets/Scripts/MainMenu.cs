@@ -8,6 +8,6 @@ public class MainMenu : MonoBehaviour {
         Debug.Log("GoToCurrent");
     }
     public void GoToScenario1() {
-
+        Debug.Log("GoToChange");
     }
 }
